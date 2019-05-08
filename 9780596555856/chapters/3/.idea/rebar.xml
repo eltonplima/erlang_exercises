@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RebarSettings">
+    <rebarPath>$USER_HOME$/.asdf/installs/erlang/21.3.7/bin/rebar3</rebarPath>
+  </component>
+</project>
